@@ -5,7 +5,7 @@
     android:id="@id/frag_Episodes"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.episodes.EpisodesFragment">
+    tools:context=".view.ui.mylists.MyListsFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView

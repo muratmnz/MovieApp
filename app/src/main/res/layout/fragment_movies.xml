@@ -5,7 +5,7 @@
     android:id="@+id/charactersFragment"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.characters.CharactersFragment">
+    tools:context=".view.ui.movie.MoviesFragment">
 
 
 </RelativeLayout>

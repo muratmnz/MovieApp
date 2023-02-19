@@ -7,17 +7,17 @@
 
     <fragment
         android:id="@+id/charactersFragment"
-        android:name="com.muratmnz.movieapp.ui.characters.CharactersFragment"
+        android:name="com.muratmnz.movieapp.view.ui.movie.MoviesFragment"
         android:label="fragment_characters"
-        tools:layout="@layout/fragment_characters" />
+        tools:layout="@layout/fragment_movies" />
     <fragment
         android:id="@+id/locationsFragment"
-        android:name="com.muratmnz.movieapp.ui.locations.LocationsFragment"
+        android:name="com.muratmnz.movieapp.view.ui.details.DetailsFragment"
         android:label="fragment_locations"
-        tools:layout="@layout/fragment_locations" />
+        tools:layout="@layout/fragment_details" />
     <fragment
         android:id="@+id/episodesFragment"
-        android:name="com.muratmnz.movieapp.ui.episodes.EpisodesFragment"
+        android:name="com.muratmnz.movieapp.view.ui.mylists.MyListsFragment"
         android:label="fragment_episodes"
-        tools:layout="@layout/fragment_episodes" />
+        tools:layout="@layout/fragment_mylists" />
 </navigation>

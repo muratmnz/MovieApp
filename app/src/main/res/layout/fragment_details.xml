@@ -5,7 +5,7 @@
     android:id="@+id/locationsFragment"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.locations.LocationsFragment">
+    tools:context=".view.ui.details.DetailsFragment">
 
     <TextView
         android:layout_width="match_parent"
